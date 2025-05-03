@@ -29,7 +29,7 @@ Se você **já possui sprints anteriores** e deseja começar de uma sprint espec
 - Ajuste `config.json` para:
    ```json
    {
-       "org": "https://dev.azure.com/gustavoh2008/",
+       "org": "https://dev.azure.com/minhaorganizacao/",
        "prj": "labs",
        "startSprintDate": "2025-07-21",
        "totalSprints": 1,
