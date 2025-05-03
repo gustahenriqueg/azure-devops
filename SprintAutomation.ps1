@@ -1,6 +1,6 @@
 # ==============================
 # Script: Sprint Automation.ps1
-# Autor: Seu Nome
+# Autor: Gustavo Henrique
 # Data: 2025-05-03
 # Descrição: Automação para criação de sprints no Azure DevOps.
 # Este script permite configurar e criar múltiplas sprints automaticamente,
